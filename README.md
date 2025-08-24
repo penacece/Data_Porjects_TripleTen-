@@ -1,2 +1,2 @@
-# Data_Porjects_TripleTen-
+# Data_Projects_TripleTen-
 Spreadsheet Data Analysis
